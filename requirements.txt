@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+dash
+dash-bootstrap-components
+autoimpute
+imbalanced-learn
+skrebate
+joblib
