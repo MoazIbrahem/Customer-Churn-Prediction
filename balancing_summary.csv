@@ -1,0 +1,4 @@
+,Precision,Recall,F1 Score,ROC-AUC
+Before (Original),0.6859,0.4884,0.5705,0.8496
+After SMOTE,0.5293,0.7925,0.6347,0.8513
+After Undersampling,0.5222,0.78,0.6255,0.8485
